@@ -1,5 +1,9 @@
-Artificial
+[Artificial](Artificial/)
 
-Real
+[Real](Real/)
+
+<img src="images/D31_TP.png" width="800">
+
+<img src="images/ds2c2sc13_E1_TP.png" width="800">
 
 <img src="images/UKC1_TP.png" width="800">
